@@ -1,8 +1,17 @@
-# this is `<h1>` heading
-## this is `<h2>` heading
-### this is `<h3>` heading
-#### this is `<h4>` heading
-##### this is `<h5>` heading
-###### this is `<h6>` heading
-this is normal text
+```
+//C++ Template
+#include "bits/stdc++.h"
+using namespace std;
+
+int main() {
+  ios_base::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int tc = 1;
+  cin >> tc;
+  while (tc--) {
+    //code here;
+  }
+  return 0;
+}
+```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
