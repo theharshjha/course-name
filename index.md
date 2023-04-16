@@ -1,4 +1,4 @@
 - [x] harsh
 - [ ] jha
-- [ x] is
+- [x] is
 - [x] great
